@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  #font = "sans-serif" #网页加栽快
+  # font = "sans-serif" #网页加栽快
   font = "classic"
 
   # Your details.
