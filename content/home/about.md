@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Blockchain Technology",
     "Machine Learning",
-    "Quantitative Investment"
+    "Quantitative Investment",
+    "R"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,4 +33,8 @@ weight = 5
 
 # Biography
 
-Weli Chen is now a PhD student in Sun Yat-sen University.
+I am a PhD student in Sun Yat-sen University and majored in computer science and technology. I focus on blockchain technology, especially in data mining in blockchain data. 
+
+
+
+
