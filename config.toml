@@ -4,6 +4,8 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
+relativeurls = true 
+
 
 # Title of your site
 title = "Anti-Scams In Blockchain"
