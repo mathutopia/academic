@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer Science and Technology"
+  course = "PhD Student in Computer Science and Technology"
   institution = "Sun Yat-sen University"
 
 
@@ -33,7 +33,7 @@ weight = 5
 
 # Biography
 
-I am a PhD student in Sun Yat-sen University and majored in computer science and technology. I focus on blockchain technology, especially in data mining in blockchain data. 
+I am a PhD student in Sun Yat-sen University (Zhong Shan University) and majored in computer science and technology. I focus on blockchain technology, especially in data mining in blockchain data. 
 
 
 
