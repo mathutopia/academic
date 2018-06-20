@@ -1,7 +1,7 @@
 +++
 title = "Poster: Efficient Blockchain-based Software Systems via Hierarchical Bucket Tree"
 date = 2018-05-27T21:12:06+08:00
-draft = true
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Weili Chen", "Zibin Zheng", "Mingjie Ma", "Pinjia He", "Peilin Zheng", "Yuren Zhou"]
